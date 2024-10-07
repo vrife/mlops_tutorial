@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vladimirrife/Desktop/Everything/education/mlops/end_to_end_tutorial/mlruns/184113154729450596/a904f1458cee45f6aa544774595698c4/artifacts
+end_time: 1728252966421
+entry_point_name: ''
+experiment_id: '184113154729450596'
+lifecycle_stage: active
+run_id: a904f1458cee45f6aa544774595698c4
+run_name: useful-moose-120
+run_uuid: a904f1458cee45f6aa544774595698c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728252965333
+status: 4
+tags: []
+user_id: vladimirrife

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vladimirrife/Desktop/Everything/education/mlops/end_to_end_tutorial/mlruns/184113154729450596/2b5678b437eb469aa0b4dfc3d698f21b/artifacts
+end_time: 1728253402712
+entry_point_name: ''
+experiment_id: '184113154729450596'
+lifecycle_stage: active
+run_id: 2b5678b437eb469aa0b4dfc3d698f21b
+run_name: salty-jay-785
+run_uuid: 2b5678b437eb469aa0b4dfc3d698f21b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728253401645
+status: 4
+tags: []
+user_id: vladimirrife

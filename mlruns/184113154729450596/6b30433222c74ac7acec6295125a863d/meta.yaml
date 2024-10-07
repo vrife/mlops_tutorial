@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vladimirrife/Desktop/Everything/education/mlops/end_to_end_tutorial/mlruns/184113154729450596/6b30433222c74ac7acec6295125a863d/artifacts
+end_time: 1728253436274
+entry_point_name: ''
+experiment_id: '184113154729450596'
+lifecycle_stage: active
+run_id: 6b30433222c74ac7acec6295125a863d
+run_name: unequaled-wren-107
+run_uuid: 6b30433222c74ac7acec6295125a863d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728253435166
+status: 4
+tags: []
+user_id: vladimirrife

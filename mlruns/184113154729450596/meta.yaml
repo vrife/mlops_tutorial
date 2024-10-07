@@ -1,0 +1,6 @@
+artifact_location: file:///Users/vladimirrife/Desktop/Everything/education/mlops/end_to_end_tutorial/mlruns/184113154729450596
+creation_time: 1728252965103
+experiment_id: '184113154729450596'
+last_update_time: 1728252965103
+lifecycle_stage: active
+name: cifar10-classification

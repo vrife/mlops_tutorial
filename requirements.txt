@@ -1,0 +1,6 @@
+torch
+torchvision
+fastapi
+uvicorn
+prometheus_client
+tqdm
